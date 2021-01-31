@@ -1,6 +1,6 @@
 ### Spring Bootの学習記録(2021/01/31)
 
-* Spring Bootを利用してサーバーサイドアプリの作成イメージをつかむ
+* Spring Bootを利用したサーバーサイドアプリの作成イメージをつかむ
   * 画面から値を受け取り、データ登録ができること
   	* View(Thymeleaf)で定義したth:object(@ModelAttribute)をControllerのハンドラーメソッドで受け取りリポジトリ経由で作成する
   * 登録したデータが表示できること
